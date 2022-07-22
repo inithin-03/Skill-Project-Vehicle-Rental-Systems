@@ -1,0 +1,2 @@
+# Skill-Project-Vehicle-Rental-Systems
+–Automobile Systems Description : This project mainly focuses on the Vehicle Rental System it consists of two roles admin and customer. A customer can book a vehicle according his choice of interest and admin accepts the requests according to the open schedules and if the chosen vehicles are free, He notifies the customers about the price and details of the vehicle.
